@@ -80,7 +80,7 @@ const App = () => {
           You selected{" "}
           <span style={{ fontSize: 35, fontWeight: "bolder" }}>
             {selectedCity}
-          </span>{" "}
+          </span>
           ,{" "}
           <span style={{ fontSize: 30, color: "grey", fontWeight: "bold" }}>
             {selectedState}, {selectedCountry}
